@@ -1,4 +1,4 @@
-# NotebookLM
+# Segundo Cérebro para Gestão de Projetos de IA
 Desafio Bootcamp DIO Bradesco - Gen AI &amp; Dados
 # 📘 Notebook LLM – Segundo Cérebro para Gestão de Projetos de IA
 
