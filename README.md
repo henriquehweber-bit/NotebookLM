@@ -1,6 +1,5 @@
 # Segundo Cérebro para Gestão de Projetos de IA
-Desafio Bootcamp DIO Bradesco - Gen AI &amp; Dados
-# 📘 Notebook LLM – Segundo Cérebro para Gestão de Projetos de IA
+📘 Notebook LLM – Segundo Cérebro para Gestão de Projetos de IA
 
 ## 🎯 Objetivo do Projeto
 Este projeto foi desenvolvido como parte do **Bootcamp DIO | Bradesco – Gen AI & Dados** e tem como objetivo criar um **Notebook LLM** que funcione como um *segundo cérebro* para apoio à **gestão de projetos de Inteligência Artificial**.  
